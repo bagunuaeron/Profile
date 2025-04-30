@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div> 
       <h1>About Me</h1>
-      <p>Hello! I'm Joshua Bolilan P., I study at University Of Cabuyao</p>
+      <p>Hello! I'm Aeron M. Bagunu., I study at University Of Cabuyao</p>
     </div>
   )
  
